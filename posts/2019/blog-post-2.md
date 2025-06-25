@@ -13,4 +13,4 @@ This is included on the homepage.
 This will not be on the homepage.
  
 ## Legal Stuff
-We do not accept any liability for any loss or damage.
+We do not accept any liability for any loss or damage. Or anything.
