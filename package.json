@@ -1,0 +1,27 @@
+{
+  "name": "atomisticsimulationofmaterials.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/AtomisticSimulationOfMaterials/AtomisticSimulationOfMaterials.github.io#readme",
+  "bugs": {
+    "url": "https://github.com/AtomisticSimulationOfMaterials/AtomisticSimulationOfMaterials.github.io/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtomisticSimulationOfMaterials/AtomisticSimulationOfMaterials.github.io.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx eleventy",
+    "serve": "npx eleventy --serve",
+    "debug": "DEBUG=* npx eleventy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "moment": "^2.30.1"
+  }
+}
